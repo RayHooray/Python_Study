@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da5c808-d5ff-4364-8e30-10eb7caec860" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BASIC/Number.py">
+        <entry file="file://$PROJECT_DIR$/BASIC/day01/Number.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="657">
               <caret line="91" column="19" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
@@ -52,7 +52,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BASIC/List.py">
+        <entry file="file://$PROJECT_DIR$/BASIC/day02/List.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="607">
               <caret line="54" lean-forward="true" selection-end-line="54" />
@@ -61,7 +61,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BASIC/Dictionary.py">
+        <entry file="file://$PROJECT_DIR$/BASIC/day02/Dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="287">
               <caret line="46" column="29" lean-forward="true" selection-end-line="66" />
@@ -70,7 +70,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BASIC/Tuple.py">
+        <entry file="file://$PROJECT_DIR$/BASIC/day02/Tuple.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
               <caret line="18" selection-end-line="43" />
@@ -78,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -90,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -121,8 +121,8 @@
         <option value="$PROJECT_DIR$/BASIC/List.py" />
         <option value="$PROJECT_DIR$/BASIC/Tuple.py" />
         <option value="$PROJECT_DIR$/BASIC/Dictionary.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -165,6 +165,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BASIC/day02" />
       <recent name="$PROJECT_DIR$/BASIC/day01" />
     </key>
   </component>
@@ -196,18 +197,18 @@
       <workItem from="1548419666592" duration="671000" />
       <workItem from="1548421023595" duration="205000" />
       <workItem from="1548640776957" duration="306000" />
-      <workItem from="1548645267320" duration="7084000" />
+      <workItem from="1548645267320" duration="7255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31599000" />
+    <option name="totallyTimeSpent" value="31770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="995" y="25" width="925" height="1084" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20296465" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20296465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -221,7 +222,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49828961" weight="0.3299595" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50171036" side_tool="true" weight="0.3299595" />
-      <window_info active="true" anchor="bottom" x="674" y="403" width="1051" height="327" id="Terminal" order="11" sideWeight="0.49942988" visible="true" weight="0.23582996" />
+      <window_info anchor="bottom" x="674" y="403" width="1051" height="327" id="Terminal" order="11" sideWeight="0.49942988" visible="true" weight="0.23582996" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3296371" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -273,7 +274,7 @@
     <entry file="file://$PROJECT_DIR$/Study/study.py" />
     <entry file="file://$PROJECT_DIR$/Study/可变参数.py" />
     <entry file="file://$PROJECT_DIR$/Study/test.py" />
-    <entry file="file://$PROJECT_DIR$/BASIC/Number.py">
+    <entry file="file://$PROJECT_DIR$/BASIC/day01/Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="657">
           <caret line="91" column="19" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
@@ -290,14 +291,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BASIC/List.py">
+    <entry file="file://$PROJECT_DIR$/BASIC/day02/List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="607">
           <caret line="54" lean-forward="true" selection-end-line="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BASIC/Tuple.py">
+    <entry file="file://$PROJECT_DIR$/BASIC/day02/Tuple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="18" selection-end-line="43" />
@@ -318,17 +319,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BASIC/Dictionary.py">
+    <entry file="file://$PROJECT_DIR$/BASIC/day02/Dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="46" column="29" lean-forward="true" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -339,6 +333,13 @@
             <caret line="485" column="2" selection-start-line="485" selection-start-column="2" selection-end-line="485" selection-end-column="2" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
