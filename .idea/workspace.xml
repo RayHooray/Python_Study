@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da5c808-d5ff-4364-8e30-10eb7caec860" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BASIC/String.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BASIC/数据类型和变量.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BASIC/运算符.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,8 +82,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="140">
-                <caret line="487" selection-start-line="487" selection-end-line="487" />
+              <first_editor relative-caret-position="320">
+                <caret line="485" column="2" selection-start-line="485" selection-start-column="2" selection-end-line="485" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -199,18 +196,18 @@
       <workItem from="1548419666592" duration="671000" />
       <workItem from="1548421023595" duration="205000" />
       <workItem from="1548640776957" duration="306000" />
-      <workItem from="1548645267320" duration="7024000" />
+      <workItem from="1548645267320" duration="7084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31539000" />
+    <option name="totallyTimeSpent" value="31599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="995" y="25" width="925" height="1084" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20296465" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20296465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -224,7 +221,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49828961" weight="0.3299595" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50171036" side_tool="true" weight="0.3299595" />
-      <window_info anchor="bottom" x="674" y="403" width="1051" height="327" id="Terminal" order="11" sideWeight="0.49942988" visible="true" weight="0.23582996" />
+      <window_info active="true" anchor="bottom" x="674" y="403" width="1051" height="327" id="Terminal" order="11" sideWeight="0.49942988" visible="true" weight="0.23582996" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3296371" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -338,8 +335,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="140">
-            <caret line="487" selection-start-line="487" selection-end-line="487" />
+          <first_editor relative-caret-position="320">
+            <caret line="485" column="2" selection-start-line="485" selection-start-column="2" selection-end-line="485" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
